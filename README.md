@@ -1,4 +1,3 @@
-
 # Programming Code Templates
 
 Welcome to my collection of programming code templates! This repository contains various templates and helper functions that I've created to solve algorithmic problems.
