@@ -1,2 +1,4 @@
-source.cpp
-source
+sandbox/
+
+test.cpp
+*.out
